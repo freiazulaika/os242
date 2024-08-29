@@ -1,7 +1,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-# LogCode : https: //osp4diss.vlsm.org/ETC/logcodes.txt
+# LogCode : https://doit.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00 5 Week 0 L03 Set Up GitHub
-ZCZC W00 100 Week 0 L02 First Class
-ZCZC W00 3 Week 0 L04 Set Up GitHub Pages
+ZCZC W00 5 L03 Set Up GitHub
+ZCZC W00 100 L02 First Class
+ZCZC W00 3 L04 Set Up GitHub Pages
+ZCZC W00 40 L04 GitHub Pages related
+ZCZC W00 100 L02 CLASSROOM meetings related
