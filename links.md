@@ -1,7 +1,0 @@
----
-permalink: LINKS/
----
-
-## [HOME](../)
-
-# LINKS
