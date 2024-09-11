@@ -1,3 +1,3 @@
 # Operating Systems 242: freiazulaika
 
-[LOG](TXT/mylog.txt) | [GitHub](https://github.com/freiazulaika/os242) | [LINKS](links.md)
+[LINKS](LINKS/){:target="_blank"} | [LOG](TXT/mylog.txt){:target="_blank"} | [GitHub](https://github.com/freiazulaika/os242){:target="_blank"}
