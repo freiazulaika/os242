@@ -26,4 +26,12 @@ This video explains about protection and security in operating systems. It discu
 
 This website offers comprehensive material on the C language, covering everything from basic definitions to practical examples.
 
+[Understanding File Systems](https://www.kingston.com/en/blog/personal-storage/understanding-file-systems)
+
+This article covers different file systems used by operating systems to manage data on storage devices. It highlights systems like FAT, exFAT, NTFS, APFS, and Ext4, discussing their advantages and disadvantages, such as simplicity, compatibility, and security features. The article emphasizes the importance of file systems in data management and their ongoing evolution with technology.
+
+[Disk Partitioning in Linux](https://www.geeksforgeeks.org/disk-partitioning-in-linux/)
+
+This article explains disk partitioning in Linux, which involves dividing a disk into logical areas for better disk management, dual booting, and data security. It covers four main steps: attaching the disk, creating partitions using fdisk, formatting with mkfs, and mounting the partitions. It also explains how to make the mounts permanent by editing the fstab file.
+
 
