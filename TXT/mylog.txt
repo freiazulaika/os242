@@ -35,3 +35,7 @@ ZCZC W03 105 L13 Assignment #03
 ZCZC W03 120 L64 Helping a friend (OS related problem)
 ZCZC W03 45 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 10 L41 TXT/mylog.txt related
+ZCZC W03 100 L02 CLASSROOM meetings related
+ZCZC W03 40 L32 YouTube: watching OS related topics, etc.
+ZCZC W03 10 L40 TXT/ related in general
+ZCZC W03 30 L64 Helping a friend (OS related problem)
