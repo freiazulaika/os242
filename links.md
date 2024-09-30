@@ -23,7 +23,6 @@ This video explains about protection and security in operating systems. It discu
 
 [Learn C Programming](https://www.learn-c.org)
 
-
 This website offers comprehensive material on the C language, covering everything from basic definitions to practical examples.
 
 [Understanding File Systems](https://www.kingston.com/en/blog/personal-storage/understanding-file-systems)
@@ -34,4 +33,10 @@ This article covers different file systems used by operating systems to manage d
 
 This article explains disk partitioning in Linux, which involves dividing a disk into logical areas for better disk management, dual booting, and data security. It covers four main steps: attaching the disk, creating partitions using fdisk, formatting with mkfs, and mounting the partitions. It also explains how to make the mounts permanent by editing the fstab file.
 
+[Paging in Operating System](https://www.geeksforgeeks.org/paging-in-operating-system/)
 
+This website talks about how computers manage their memory to ensure smooth and efficient operation. It covers various techniques that help organize and utilize memory effectively, enhancing overall system performance and allowing multiple programs to run seamlessly together.
+
+[Contiguous vs Non Contiguous Memory Allocation](https://youtu.be/LLhgnIYpQaI?si=s7Pciv0NXfQ_UwoR)
+
+In this video, the instructor discusses how computers manage memory to ensure efficiency and speed. It covers different types of memory and allocation methods, helping systems run multiple programs smoothly.
