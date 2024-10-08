@@ -40,3 +40,9 @@ This website talks about how computers manage their memory to ensure smooth and 
 [Contiguous vs Non Contiguous Memory Allocation](https://youtu.be/LLhgnIYpQaI?si=s7Pciv0NXfQ_UwoR)
 
 In this video, the instructor discusses how computers manage memory to ensure efficiency and speed. It covers different types of memory and allocation methods, helping systems run multiple programs smoothly.
+
+[Virtual Memory in OS](https://www.guru99.com/virtual-memory-in-operating-system.html)
+
+The article mainly talks about virtual memory, explaining how it allows computers to use hard drive space as extra memory to run larger applications and multiple programs simultaneously. It also highlights the benefits of increased flexibility and efficiency, along with the drawbacks of potential slowdowns and reduced performance.
+
+
