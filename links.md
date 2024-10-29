@@ -45,4 +45,11 @@ In this video, the instructor discusses how computers manage memory to ensure ef
 
 The article mainly talks about virtual memory, explaining how it allows computers to use hard drive space as extra memory to run larger applications and multiple programs simultaneously. It also highlights the benefits of increased flexibility and efficiency, along with the drawbacks of potential slowdowns and reduced performance.
 
+[Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)
+
+This article explains that a process is a running program moving through stages like waiting and completing tasks. It describes how the operating system tracks each process’s key details to keep everything running smoothly.
+
+[Creating new processes with fork()!](https://youtu.be/ss1-REMJ9GA?si=KP-0zWE1SopTCGsX)
+
+This instructor explains how new processes are created using the fork() command and he also explains some basic ideas like process relationships and IDs.
 
