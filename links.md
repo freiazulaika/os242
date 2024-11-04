@@ -53,3 +53,7 @@ This article explains that a process is a running program moving through stages 
 
 This instructor explains how new processes are created using the fork() command and he also explains some basic ideas like process relationships and IDs.
 
+[Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+
+This article contains an explanation of process synchronization in operating systems. The article has many illustrative images, making the explanations easier to understand.
+
