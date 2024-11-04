@@ -58,3 +58,10 @@ ZCZC W06 60 L09 Assignment in General
 ZCZC W06 100 L02 CLASSROOM meetings related
 ZCZC W06 50 L64 Helping a friend (OS related problem)
 ZCZC W06 120 L09 Assignment in General
+ZCZC W07 100 L02 CLASSROOM meetings related
+ZCZC W07 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W07 100 L02 CLASSROOM meetings related
+ZCZC W07 90 L64 Helping a friend (OS related problem)
+ZCZC W07 120 L09 Assignment in General
+ZCZC W07 10 L40 TXT/ related in general
+ZCZC W07 30 L32 YouTube: watching OS related topics, etc.
