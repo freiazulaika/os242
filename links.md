@@ -57,3 +57,7 @@ This instructor explains how new processes are created using the fork() command 
 
 This article contains an explanation of process synchronization in operating systems. The article has many illustrative images, making the explanations easier to understand.
 
+[CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+
+This article discusses CPU scheduling in operating systems, focusing on how processes are allocated CPU time to optimize performance. It explains various scheduling algorithms, including FCFS, SJF, Priority Scheduling, and Round Robin, along with key terms like burst time and turnaround time. The article highlights the importance of efficiency, fairness, and resource utilization in scheduling.
+
